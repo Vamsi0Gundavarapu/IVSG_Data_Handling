@@ -1,2 +1,5 @@
+# Ignore all Excel files
 *.xlsx
+
+# Ignore all Word documents
 *.docx
