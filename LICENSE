@@ -1,0 +1,70 @@
+MIT License
+
+Copyright (c) 2024 Vamsi Gundavarapu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+# Data Handling Procedures
+
+## Overview
+
+This document outlines the procedures for managing physical SSDs used for storing and transferring data within the team. It includes guidelines for checking out, returning, updating, and maintaining the drives.
+
+## Objective
+
+To ensure that all data handled within the team is managed securely and efficiently, with accountability for the data's integrity and availability.
+
+## Scope
+
+This procedure applies to all team members who use and manage data stored on physical drives for project purposes.
+
+## Roles and Responsibilities
+
+- **Data Handler**: Oversees the data management process, ensures drives are updated and returned on schedule, and handles security protocols.
+  - Current Data Handler: Vamsi
+- **Team Members**: Responsible for checking out and returning drives as per the schedule and reporting any issues with the data or drives immediately.
+  - Xinyu
+  - Sadie
+  - Vamsi
+  - Max
+  - 
+
+## Procedures
+
+### Checking Out Drives
+
+- **Record-Keeping**: The checkout date, team member's name, and expected return date are recorded in the Data Handling Spreadsheet.
+
+### Returning Drives
+
+- **Record Updating**: Update the Data Handling Spreadsheet with the return details.
+
+### Updating Drives
+
+- **Schedule**: Drives are mostly updated once every 2 weeks, based on mapping van usage.
+- **Process**:
+  1. Verify the data integrity in the master copy pre-update.
+  2. Connect the master drive (MD) to a secure system.
+  3. Copy the data files to the drive.
+  4. Follow the instructions in the tools section for using Macrium Reflect or Disk Genius.
+
+### Reporting and Maintaining
+
+- **Reporting**: Report immediately if there are any issues with the drive or any data discrepancies.
+- **Maintenance**: Regularly check the drives to ensure their reliability.
