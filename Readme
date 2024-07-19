@@ -1,8 +1,21 @@
-The repo is to keep track of the mapping van data handling.
-Each of the drives has a storage space of 5 TB.
-Master Copy S/N: NACM914Q "Data Collected from 05/11/2023-06/28/2024" Storage_Size = 839.88 GB Assigned to XINYU ON 7/8/2024
-SSD_1 S/N: NT36J5H2 "Clone-copied on 07/02/2024" Assigned to - XINYU ON 7/8/2024
-SSD_2 S/N: NT36J5F6 "Clone-copied on 07/03/2024" Assigned to - XINYU ON 7/8/2024
-SSD_3 S/N: NT36J5GY "Clone-copied on 07/03/2024" Assigned to - Sadie on 7/9/2024
-SSD_4 S/N: NT36J5LC "Clone-copied on 07/05/2024" Assigned to -
-SSD_5 S/N: NT36J5M4 "Clone-copied on 07/05/2024" Assigned to -
+# Data Handling Procedures
+
+This repository contains the documentation and procedures for managing physical SSDs for storing and transferring data within the team. The procedures ensure data integrity, security, and accountability.
+
+## Overview
+
+The repository includes:
+
+- Documentation for data handling procedures
+- Instructions for using Macrium Reflect and Disk Genius software
+- Spreadsheet for record-keeping
+
+## Structure
+
+- `docs/`: Contains the main data handling procedures document.
+- `spreadsheet/`: Contains the Data Handling Spreadsheet for record-keeping.
+- `tools/`: Contains instructions for using specific software tools like Macrium Reflect and Disk Genius.
+
+## Getting Started
+
+1. Clone the repository:
